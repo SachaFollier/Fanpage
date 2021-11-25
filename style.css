@@ -1,0 +1,35 @@
+@media screen and (min-width: 8em) {
+	.container {
+		margin: 1em 2em;
+	  }
+	}
+h1 {
+    color: rgb(255, 253, 253);
+    width: 500px;
+    border: 6px solid gold;
+	border-style: groove;
+  }
+   p {
+	color: rgb(255, 253, 253);
+	}
+body {
+		width: 600px;
+		margin: 0 auto;
+		background-color: #000000e5;
+		padding: 0 20px 20px 20px;
+		border: 5px solid gold;
+		border-style: dotted;
+
+	  }
+	h2 {
+		color:royalblue;
+		font-family:Verdana, Geneva, Tahoma, sans-serif;
+	}
+	h3 {
+		color:red;
+		font-family:monospace
+	}
+li {
+	color: orangered;
+	shape-outside: circle(50%) border-box;
+}
