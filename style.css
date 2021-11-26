@@ -22,15 +22,15 @@ body {
 
 	  }
 	h2 {
-		color:royalblue;
+		color:red;
 		font-family:Verdana, Geneva, Tahoma, sans-serif;
 	}
 	h3 {
-		color:red;
-		font-family:monospace
+		color:tomato;
+		font-family:monospace;
 	}
 li {
-	color: orangered;
+	color:tan;
 	shape-outside: circle(50%) border-box;
 }
 em {
