@@ -33,3 +33,9 @@ li {
 	color: orangered;
 	shape-outside: circle(50%) border-box;
 }
+em {
+	color:gold;
+}
+a {
+	color:yellow;
+}
